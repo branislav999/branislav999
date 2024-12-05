@@ -2,22 +2,22 @@
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Branislav Bogosavac, a senior at Brigham Young University-Idaho studying Software Engineering. I'm passionate about creating impactful software solutions and exploring innovative technologies. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+🌱 I'm currently learning advanced web development, cloud deployment, and AI integration.
+🎯 My goals are to contribute to cutting-edge software projects and build a robust portfolio showcasing my expertise.
+💬 Ask me about web development, backend engineering, and integrating AI into projects.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: C#, JavaScript, Node.js, Express, MongoDB, PostgreSQL, Svelte, HTML/CSS, and EJS.
+- Skills: REST API development, responsive design, database management, and OAuth authentication.
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [[LinkedIn](https://www.linkedin.com/in/branislav-bogosavac-47019b1b8/)](Your LinkedIn Profile Link) profile
 - Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
