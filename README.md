@@ -1,6 +1,6 @@
 # Branislav Bogosavac
 
-Hello, GitHub! 👋
+Hello 👋
 
 I'm Branislav Bogosavac, a senior at Brigham Young University-Idaho studying Software Engineering. I'm passionate about creating impactful software solutions and exploring innovative technologies. Welcome to my GitHub profile!
 
