@@ -17,7 +17,7 @@ I'm Branislav Bogosavac, a senior at Brigham Young University-Idaho studying Sof
 
 ## Projects
 
-- [CSE340 - Database Integration and Web Development (https://github.com/branislav999/cse340-branislavbogosavac)] A full-stack project demonstrating database-driven web application development. Features robust database integration using MongoDB and a responsive front-end design.
+- [[CSE340 - Database Integration and Web Development] (https://github.com/branislav999/cse340-branislavbogosavac)] A full-stack project demonstrating database-driven web application development. Features robust database integration using MongoDB and a responsive front-end design.
 - [Learn Serbian (https://github.com/branislav999/learnSerbian)] An interactive language learning app designed to help users learn Serbian. Built using modern web technologies and a clean, user-friendly interface.
 - [Memory Game (https://github.com/branislav999/memoryGame)] A fun, browser-based memory game where users match cards to test their memory skills. Developed with a focus on smooth animations and dynamic gameplay.
 
