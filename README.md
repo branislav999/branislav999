@@ -17,7 +17,6 @@ I'm Branislav Bogosavac, a senior at Brigham Young University-Idaho studying Sof
 
 ## Let's Connect!
 
-- Here is my [[LinkedIn](https://www.linkedin.com/in/branislav-bogosavac-47019b1b8/)](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [[LinkedIn](https://www.linkedin.com/in/branislav-bogosavac-47019b1b8/)] profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
