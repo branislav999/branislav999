@@ -6,9 +6,9 @@ I'm Branislav Bogosavac, a senior at Brigham Young University-Idaho studying Sof
 
 ## About Me
 
-🌱 I'm currently learning advanced web development, cloud deployment, and AI integration.  
-🎯 My goals are to contribute to cutting-edge software projects and build a robust portfolio showcasing my expertise.  
-💬 Ask me about web development, backend engineering, and integrating AI into projects.  
+I'm currently learning advanced web development, cloud deployment, and AI integration.  
+My goals are to contribute to software projects and build a robust portfolio showcasing my expertise.  
+Ask me about web development, backend engineering, and integrating AI into projects.  
 
 ## Technologies and Tools
 
